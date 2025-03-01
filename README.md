@@ -27,6 +27,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshara095&show_icons=true&theme=dark)
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-Akshara095&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshara095&layout=compact&theme=dark)
 
 
