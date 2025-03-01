@@ -1,6 +1,6 @@
 ### Hey there 👋,
     I'm Akshara, a Data Engineer
-    Passionate about Big Data,Machine Learning and web Development.
+    Passionate about Big Data,Machine Learning and Web Development.
 
 ### About me  
 - 🤖 Training AI models and working with Computer Vision & NLP  
@@ -25,4 +25,8 @@
 
 ### GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshara095&show_icons=true&theme=dark)
+
+### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-Akshara95&layout=compact&theme=dark)
+
 
