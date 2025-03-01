@@ -9,7 +9,7 @@
 - 🎯 Goal: Build innovative and impactful AI-powered solutions
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akshara-kalaiselvan-626b832a0/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akshara-kalaiselvan-626b832a0/)
 
 ### Tech Stack:
   #### 💡 Machine Learning & Data Science:
