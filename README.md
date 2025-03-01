@@ -6,7 +6,10 @@
 - 🤖 Training AI models and working with Computer Vision & NLP  
 - 📊 Data analysis, visualization, and predictive modeling  
 - 🖥️ Developing full-stack applications with modern frameworks   
-- 🎯 Goal: Build innovative and impactful AI-powered solutions  
+- 🎯 Goal: Build innovative and impactful AI-powered solutions
+
+### Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/akshara-kalaiselvan-626b832a0)
 
 ### Tech Stack:
   #### 💡 Machine Learning & Data Science:
