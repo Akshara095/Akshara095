@@ -1,4 +1,4 @@
-### Hey there 👋
+![image](https://github.com/user-attachments/assets/57bfcfa6-428a-485e-9c62-54d5d130f0c6)### Hey there 👋
     I'm Akshara, a Data Engineer passionate about Big Data,and Machine Learning.
 
 ### About me  
@@ -21,4 +21,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshara095&show_icons=true&theme=dark)
 
