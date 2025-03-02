@@ -1,4 +1,9 @@
-# Hey there! 👋  
+<p align="center">
+  <marquee behavior="alternate" direction="left" scrollamount="5">
+    <strong>Hey there 👋</strong>
+  </marquee>
+</p>
+
 ### I'm Akshara 🚀  
 
 💻 **Data Engineer | Full Stack Developer**  
