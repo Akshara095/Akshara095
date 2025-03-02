@@ -19,7 +19,7 @@
 ### 🚀 My Tech Stack 
 
   ### 🤖 Machine Learning & Data Science  
-    <p>
+  <p>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50px"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="50px"/>
@@ -31,23 +31,22 @@
   ### 🌐 Full Stack Development
    **Frontend:** 
 
-    ![HTML](https://skillicons.dev/icons?i=html)
-    ![CSS](https://skillicons.dev/icons?i=css)
-    ![JavaScript](https://skillicons.dev/icons?i=javascript)
-    ![React](https://skillicons.dev/icons?i=react)
+   ![HTML](https://skillicons.dev/icons?i=html)
+   ![CSS](https://skillicons.dev/icons?i=css)
+   ![JavaScript](https://skillicons.dev/icons?i=javascript)
+   ![React](https://skillicons.dev/icons?i=react)
 
    **Backend & Database:** 
 
-    ![Node.js](https://skillicons.dev/icons?i=nodejs)
-    ![Express](https://skillicons.dev/icons?i=express)
-    ![MongoDB](https://skillicons.dev/icons?i=mongodb)
-    ![Firebase](https://skillicons.dev/icons?i=firebase)
+   ![Node.js](https://skillicons.dev/icons?i=nodejs)
+   ![Express](https://skillicons.dev/icons?i=express)
+   ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+   ![Firebase](https://skillicons.dev/icons?i=firebase)
 
 ### 🛠️ Tools & Technologies
   ![Git](https://skillicons.dev/icons?i=git)
   ![VS Code](https://skillicons.dev/icons?i=vscode)
-  ![Figma](https://skillicons.dev/icons?i=figma)
-  <p>
+  ![Figma](https://skillicons.dev/icons?i=figma) <p>
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50px" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="50px" />
   </p>
