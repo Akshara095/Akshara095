@@ -47,10 +47,11 @@
   <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40px" height="40px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40px" height="40px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vs_code_icon.svg" width="40px" height="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" height="40px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="40px" height="40px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="40px" height="40px" />
  </p>
+
 
 
 ### 📊 GitHub Stats  
