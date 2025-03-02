@@ -14,18 +14,20 @@
 ## 🚀 My Tech Stack
 
 ### 🤖 Machine Learning  
-![Python](https://skillicons.dev/icons?i=python)  
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)  
-![PyTorch](https://skillicons.dev/icons?i=pytorch)  
-![Scikit-Learn](https://skillicons.dev/icons?i=scikitlearn)  
-![Keras](https://skillicons.dev/icons?i=keras)  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
 
 ### 📊 Data Science  
-![Pandas](https://skillicons.dev/icons?i=pandas)  
-![NumPy](https://skillicons.dev/icons?i=numpy)  
-![Matplotlib](https://skillicons.dev/icons?i=matplotlib)  
-![Seaborn](https://skillicons.dev/icons?i=seaborn)  
-![Jupyter](https://skillicons.dev/icons?i=jupyter)  )
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
+
 
 ### 🌐 Full Stack Development
 **Frontend:**  
