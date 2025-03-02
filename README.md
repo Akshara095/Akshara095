@@ -47,7 +47,7 @@
   ![Git](https://skillicons.dev/icons?i=git)
   ![VS Code](https://skillicons.dev/icons?i=vscode)
   ![Figma](https://skillicons.dev/icons?i=figma) 
-  ![PowerBI](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)
+  ![PowerBI](https://upload.wikimedia.org/wikipedia/commons/3/38/New_Power_BI_Logo.svg )
   ![Jupyter](https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg)
   
 
