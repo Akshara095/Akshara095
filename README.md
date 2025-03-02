@@ -30,12 +30,14 @@
 
 ### 🌐 Full Stack Development
 **Frontend:** 
+
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![React](https://skillicons.dev/icons?i=react)
 
 **Backend & Database:** 
+
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
@@ -45,8 +47,8 @@
 ![Git](https://skillicons.dev/icons?i=git)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Figma](https://skillicons.dev/icons?i=figma)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power BI](https://skillicons.dev/icons?i=powerbi)
+![Jupyter](https://skillicons.dev/icons?i=jupyter)
 
 ### 📊 GitHub Stats  
 ![Akshara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshara095&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshara095&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
