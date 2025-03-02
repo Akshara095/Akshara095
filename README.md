@@ -1,5 +1,5 @@
 <p align="center">
-  <strong><span style="font-size: 30px;">Hey there</span></strong>
+  <strong><span style="font-size: 100px;">Hey there</span></strong>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 </p>
 
