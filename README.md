@@ -4,7 +4,6 @@
 💻 **Data Engineer | Full Stack Developer**  
 📊 Passionate about **Big Data, Data Analysis, Machine Learning, and Web Development**  
 
-<img align="right" src="https://cdn.dribbble.com/users/116207...animated-image.gif" width="300px"/>
 
 ### 🚀 About me  
   - 🤖 Training AI models and working with Computer Vision & NLP  
@@ -19,7 +18,7 @@
 
 ### 🚀 My Tech Stack 
 
-  ###🤖 Machine Learning & Data Science  
+  ### 🤖 Machine Learning & Data Science  
     <p>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50px"/>
@@ -29,20 +28,20 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="50px"/>
     </p>
 
-  ###🌐 Full Stack Development
-    **Frontend:** 
+  ### 🌐 Full Stack Development
+   **Frontend:** 
 
-  ![HTML](https://skillicons.dev/icons?i=html)
-  ![CSS](https://skillicons.dev/icons?i=css)
-  ![JavaScript](https://skillicons.dev/icons?i=javascript)
-  ![React](https://skillicons.dev/icons?i=react)
+    ![HTML](https://skillicons.dev/icons?i=html)
+    ![CSS](https://skillicons.dev/icons?i=css)
+    ![JavaScript](https://skillicons.dev/icons?i=javascript)
+    ![React](https://skillicons.dev/icons?i=react)
 
    **Backend & Database:** 
 
-  ![Node.js](https://skillicons.dev/icons?i=nodejs)
-  ![Express](https://skillicons.dev/icons?i=express)
-  ![MongoDB](https://skillicons.dev/icons?i=mongodb)
-  ![Firebase](https://skillicons.dev/icons?i=firebase)
+    ![Node.js](https://skillicons.dev/icons?i=nodejs)
+    ![Express](https://skillicons.dev/icons?i=express)
+    ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+    ![Firebase](https://skillicons.dev/icons?i=firebase)
 
 ### 🛠️ Tools & Technologies
   ![Git](https://skillicons.dev/icons?i=git)
