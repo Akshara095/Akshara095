@@ -44,12 +44,14 @@
    ![Firebase](https://skillicons.dev/icons?i=firebase)
 
 ### 🛠️ Tools & Technologies
-  ![Git](https://skillicons.dev/icons?i=git)
-  ![VS Code](https://skillicons.dev/icons?i=vscode)
-  ![Figma](https://skillicons.dev/icons?i=figma) 
-  <p><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40px" height="40px" /> </p> 
-  ![Jupyter](https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg)
-  
+  <p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40px" height="40px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40px" height="40px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vs_code_icon.svg" width="40px" height="40px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="40px" height="40px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="40px" height="40px" />
+ </p>
+
 
 ### 📊 GitHub Stats  
   ![Akshara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshara095&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshara095&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
