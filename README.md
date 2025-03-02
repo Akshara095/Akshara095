@@ -13,13 +13,19 @@
 
 ## 🚀 My Tech Stack
 
-### 👨‍💻 Machine Learning & Data Science
-![Python](https://skillicons.dev/icons?i=python)
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![Scikit-Learn](https://skillicons.dev/icons?i=scikitlearn)
-![Pandas](https://skillicons.dev/icons?i=pandas)
-![NumPy](https://skillicons.dev/icons?i=numpy)
+### 🤖 Machine Learning  
+![Python](https://skillicons.dev/icons?i=python)  
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)  
+![PyTorch](https://skillicons.dev/icons?i=pytorch)  
+![Scikit-Learn](https://skillicons.dev/icons?i=scikitlearn)  
+![Keras](https://skillicons.dev/icons?i=keras)  
+
+### 📊 Data Science  
+![Pandas](https://skillicons.dev/icons?i=pandas)  
+![NumPy](https://skillicons.dev/icons?i=numpy)  
+![Matplotlib](https://skillicons.dev/icons?i=matplotlib)  
+![Seaborn](https://skillicons.dev/icons?i=seaborn)  
+![Jupyter](https://skillicons.dev/icons?i=jupyter)  )
 
 ### 🌐 Full Stack Development
 **Frontend:**  
