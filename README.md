@@ -1,6 +1,6 @@
 ### Hey there 👋,
-    I'm Akshara, a Data Engineer
-    Passionate about Big Data,Machine Learning and Web Development.
+    I'm Akshara, a Data Engineer and Full Stack Developer
+    Passionate about Big Data, Data Analysis, Machine Learning and Web Development.
 
 ### About me  
 - 🤖 Training AI models and working with Computer Vision & NLP  
