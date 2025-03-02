@@ -1,5 +1,5 @@
 ### Hey there 👋,
-    I'm Akshara, a Data Engineer and Full Stack Developer
+    I'm Akshara, a Data Engineer and a Full Stack Developer
     Passionate about Big Data, Data Analysis, Machine Learning and Web Development.
 
 ### About me  
