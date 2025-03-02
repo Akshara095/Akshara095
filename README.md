@@ -11,12 +11,13 @@
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akshara-kalaiselvan-626b832a0/)
 
-### 🚀 My Tech Stack
-
-## 🤖📊 Machine Learning & Data Science  
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,pandas,numpy,jupyter" />
+### 🚀 My Tech Stack 
+#### Machine Learning & Data Science
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="50px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50px"/>
 </p>
 
 ### 🌐 Full Stack Development
