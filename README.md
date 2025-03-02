@@ -16,7 +16,7 @@
 ## 🤖📊 Machine Learning & Data Science  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,scikitlearn,pandas,numpy,jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,pandas,numpy,jupyter" />
 </p>
 
 ### 🌐 Full Stack Development
